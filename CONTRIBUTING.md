@@ -20,7 +20,7 @@ We still have several issues to be done to make Visionsonic better:
 
 ### Report a bug, request a feature, or any other suggestion
 
-The quickest way to communicate with the VisionSonic team is by email. Currently, you can only get an invite by sending an email request to `alvinsunyixiao@gmail.com`, which might take a little while, since it's not automated. We're working on an better way to do this, but this is the best way for now.
+The quickest way to communicate with the VisionSonic team is by email. Currently, you can only get an invite by sending an email request to `i@shreyaskishore.com`, which might take a little while, since it's not automated. We're working on an better way to do this, but this is the best way for now.
 
 
 
